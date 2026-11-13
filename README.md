@@ -1,21 +1,4 @@
-<!-- Replace every YOUR_GITHUB_USERNAME / placeholder link before publishing -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0072C6&height=200&section=header&text=Hi%2C%20I'm%20Aditi%20Yadav%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20(.NET%20Core)%20%7C%20Azure%20%26%20Observability%20%7C%20Applied%20AI&descSize=16&descAlignY=58" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=512BD4&center=true&vCenter=true&width=750&lines=Building+production-ready+backend+services+🚀;.NET+Core+%2B+REST+APIs+%2B+Azure+☁️;Observability+with+Application+Insights+%26+KQL+📊;Building+adaptive+RAG+%26+multi-agent+AI+systems+🧠" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=512BD4&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=121011)
-
-</div>
-
----
 
 ## 👩‍💻 About Me
 
